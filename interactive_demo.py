@@ -1,5 +1,5 @@
 """
-A simple user interface for XMem
+A simple user interface for XMem - test change
 """
 
 import os
